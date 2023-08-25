@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brenda Valdez
 - 👀 I’m interested in Data Scientist/ Data Analyst
-- 🌱 I’m currently learning Data Scientist/ Data Analyst, Python, SQL
+- 🌱 I’m currently learning Data Scientist/ Data Analyst, Python and SQL
 - 💞️ I’m looking to collaborate on Data Analytics projects to boost my skills...
 - 📫 How to reach me: brenda.valdez8701@gmail.com
 
